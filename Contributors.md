@@ -1105,8 +1105,10 @@
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Haj Mohamed👨‍💻](https://github.com/haj8110)
 - [Kores Nkoidila](https://github.com/Nkoidila)
+- [Rithu](https://github.com/rithu567)
 - [Ian McManus](https://github.com/ianmcman)
-- [Sharon-Kevin] (https://github.com/sharon17kevin)
+- [Sharon-Kevin]
+- (https://github.com/sharon17kevin)
 - [Giulio Arantes](https://github.com/GiulioArantes)
 - [PatríciaRamosS](https://github.com/PatriciaRamosS)
 - [Michelle Mullane](https://github.com/MichelleMullane)
